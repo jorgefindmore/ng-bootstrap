@@ -1,4 +1,4 @@
-if (process.env.npm_execpath.indexOf('yarn') === -1) {
+/* if (process.env.npm_execpath.indexOf('yarn') === -1) {
 	throw new Error(`
   
   ###################################################
@@ -11,3 +11,4 @@ if (process.env.npm_execpath.indexOf('yarn') === -1) {
   ###################################################
   `);
 }
+ */
